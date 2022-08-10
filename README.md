@@ -3,6 +3,8 @@
 # Merhaba, ben Berke! 
 <p align="left"> <img src="#" alt="Berke" /> </p>
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/75903181/183942461-d204c0cc-4b8d-40be-a8a3-22b594582549.svg)
+
 [![](https://img.shields.io/twitter/follow/#)](https://www.twitter.com/#)
 [![](https://img.shields.io/github/followers/#)](https://www.github.com/#)
 
