@@ -1,9 +1,8 @@
-<img align='right' src="#">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=002Be&show_icons=true">
 
 # Hey, I'm 002Be! 
 
-
-[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/002Be)
+[![](https://img.shields.io/github/followers/002Be?style=social)](https://www.github.com/002Be)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=002Be)
 
