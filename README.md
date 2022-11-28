@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=002Be&show_icons=true">
 
-# Hey, I'm 002Be! 
+# Hey, I'm Berke! 
 `import 002Be as be`
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=002Be)
