@@ -1,6 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=002Be&show_icons=true">
 
-# Hey, I'm Berke! <a href="https://www.berkeozdemir.com.tr"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# <a href="https://www.berkeozdemir.com.tr">Hey, I'm Berke! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 `import 002Be as be`
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=002Be)
